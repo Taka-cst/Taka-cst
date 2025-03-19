@@ -1,4 +1,4 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taka-cst&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taka-cst&theme=github)
 # My Qiita posts
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/Taka-C/posts.svg)](http://qiita.com/Taka-C)
 
