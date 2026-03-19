@@ -1,5 +1,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taka-cst&theme=github)
-![](https://komarev.com/ghpvc/?username=Taka-cst&label=PROFILE+VIEWS)
+
 # My Qiita posts
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/Taka-C/posts.svg)](http://qiita.com/Taka-C)
 
