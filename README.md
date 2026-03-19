@@ -1,6 +1,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taka-cst&theme=github)
+![](https://komarev.com/ghpvc/?username=Taka-cst&label=PROFILE+VIEWS)
 # My Qiita posts
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/Taka-C/posts.svg)](http://qiita.com/Taka-C)
+
 
 <!--
 **Taka-cst/Taka-cst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
