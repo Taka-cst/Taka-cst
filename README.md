@@ -4,6 +4,10 @@
 
 Undergraduate student. Passed the Registered Information Security Specialist Examination (SC). Interested in vulnerability research, SBOM / software supply-chain security, and CTF.
 
+### My Works
+- [CVE-2026-30884](https://github.com/mdjnelson/moodle-mod_customcert/security/advisories/GHSA-8pjr-j7r4-ccjx)
+- [GHSA-q7hv-rqpp-7f88](https://github.com/Smaug6739/Alexandrie/security/advisories/GHSA-q7hv-rqpp-7f88)
+
 ## Qiita
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/Taka-C/posts.svg)](http://qiita.com/Taka-C)
